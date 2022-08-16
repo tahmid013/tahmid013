@@ -1,7 +1,8 @@
+<!--
 ### Hi there 👋
 
-<!--
-**tahmid013/tahmid013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+*tahmid013/tahmid013* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src = "https://github.com/tahmid013/tahmid013/blob/main/header.png">
+
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=tahmid013&layout=compact&show_icons=true&theme=radical&hide=yacc,Jupyter%20Notebook&langs_count=12)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=tahmid013&count_private=true&show_icons=true&theme=radical)
